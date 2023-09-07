@@ -1,0 +1,15 @@
+[
+    {
+        "service_name": "test_service",
+        "service_container": "test_service_container",
+        "analysis": {
+            "BotServiceError": "ERROR [BotService]",
+            "DeviceAdded": "Added device to registry",
+            "ResolveUser": "ServiceService::resolve: Resolving users"
+        },
+        "overview": {
+            "HealthFailure": "Health Check has failed!",
+            "ODK Login Fail": "Error Logging in to ODK"
+        }
+    }
+]
